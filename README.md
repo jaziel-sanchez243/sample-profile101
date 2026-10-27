@@ -11,7 +11,7 @@ I am a full-time student at the University of Texas at San Antonio (UTSA), curre
 ## 🎉 Interests
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
-![Cyber Law](https://shields.io)
+![Cyber Law](https://shields.io-00599C?style=for-the-badge&logoc%2B%2B&logoColor=white)
 ![Digital Forensics](https://shields.io)
 ![Networking](https://shields.io)
 ## 🔗 Links
